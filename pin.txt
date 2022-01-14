@@ -1,0 +1,65 @@
+clk	PIN_W6	13	LVTTL	Dedicated Clock	CLK2p			
+rst	PIN_W18	10	LVTTL	Column I/O				
+led[0]	PIN_AF10	11	LVTTL	Column I/O				
+led[1]	PIN_AF11	11	LVTTL	Column I/O				
+led[2]	PIN_AC12	11	LVTTL	Column I/O				
+led[3]	PIN_AC13	11	LVTTL	Column I/O				
+led[4]	PIN_AD7	11	LVTTL	Column I/O				
+led[5]	PIN_AD8	11	LVTTL	Column I/O				
+led[6]	PIN_AD9	11	LVTTL	Column I/O				
+led[7]	PIN_AD10	11	LVTTL	Column I/O				
+led[8]	PIN_AA21	9	LVTTL	Row I/O				
+led[9]	PIN_AA22	9	LVTTL	Row I/O				
+led[10]	PIN_AA23	9	LVTTL	Row I/O				
+led[11]	PIN_AA24	9	LVTTL	Row I/O				
+led[12]	PIN_AA25	8	LVTTL	Row I/O	LVDSRX02n			
+led[13]	PIN_AA26	8	LVTTL	Row I/O	LVDSRX02p			
+led[14]	PIN_AB17	10	LVTTL	Column I/O				
+led[15]	PIN_AB18	10	LVTTL	Column I/O				
+dot_col[0]	PIN_AC18	10	LVTTL	Column I/O				
+dot_col[1]	PIN_AC17	10	LVTTL	Column I/O				
+dot_col[2]	PIN_AD22	9	LVTTL	Row I/O				
+dot_col[3]	PIN_AD21	10	LVTTL	Column I/O				
+dot_col[4]	PIN_AD20	10	LVTTL	Column I/O				
+dot_col[5]	PIN_AD19	10	LVTTL	Column I/O				
+dot_col[6]	PIN_AD18	10	LVTTL	Column I/O				
+dot_col[7]	PIN_AD17	10	LVTTL	Column I/O				
+dot_col[8]	PIN_AD16	10	LVTTL	Column I/O				
+dot_col[9]	PIN_AD15	10	LVTTL	Column I/O				
+dot_row[0]	PIN_AF16	10	LVTTL	Column I/O				
+dot_row[1]	PIN_AF17	10	LVTTL	Column I/O				
+dot_row[2]	PIN_AF18	10	LVTTL	Column I/O				
+dot_row[3]	PIN_AF20	10	LVTTL	Column I/O				
+dot_row[4]	PIN_AE23	10	LVTTL	Column I/O				
+dot_row[5]	PIN_AE22	10	LVTTL	Column I/O				
+dot_row[6]	PIN_AE20	10	LVTTL	Column I/O				
+dot_row[7]	PIN_AE18	10	LVTTL	Column I/O				
+dot_row[8]	PIN_AC26	9	LVTTL	Row I/O				
+dot_row[9]	PIN_AC25	9	LVTTL	Row I/O				
+dot_row[10]	PIN_AC22	9	LVTTL	Row I/O				
+dot_row[11]	PIN_AC21	10	LVTTL	Column I/O				
+dot_row[12]	PIN_AC20	10	LVTTL	Column I/O				
+dot_row[13]	PIN_AC19	10	LVTTL	Column I/O				
+key_pad_col[0]	PIN_AE10	11	LVTTL	Column I/O				
+key_pad_col[1]	PIN_AE11	11	LVTTL	Column I/O				
+key_pad_col[2]	PIN_AF9	11	LVTTL	Column I/O				
+key_pad_row[0]	PIN_AD11	11	LVTTL	Column I/O				
+key_pad_row[1]	PIN_AD12	11	LVTTL	Column I/O				
+key_pad_row[2]	PIN_AE7	11	LVTTL	Column I/O				
+key_pad_row[3]	PIN_AE9	11	LVTTL	Column I/O				
+step_motor[0]	PIN_N23	8	LVTTL	Row I/O				
+step_motor[1]	PIN_N20	9	LVTTL	Row I/O	CLK1n			
+step_motor[2]	PIN_M26	8	LVTTL	Row I/O	LVDSRX08p			
+step_motor[3]	PIN_M25	8	LVTTL	Row I/O	LVDSRX08n			
+lcd_data[0]	PIN_R5	13	LVTTL	Row I/O				
+lcd_data[1]	PIN_R6	13	LVTTL	Row I/O				
+lcd_data[2]	PIN_T1	12	LVTTL	Row I/O	LVDSTX09p			
+lcd_data[3]	PIN_T6	13	LVTTL	Row I/O	nRS			
+lcd_data[4]	PIN_T7	13	LVTTL	Row I/O	DATA7			
+lcd_data[5]	PIN_U1	12	LVTTL	Row I/O	LVDSTX10p			
+lcd_data[6]	PIN_U2	12	LVTTL	Row I/O	LVDSTX10n			
+lcd_data[7]	PIN_V1	12	LVTTL	Row I/O	LVDSTX12p			
+lcd_rs	PIN_V3	13	LVTTL	Row I/O	DATA6			
+lcd_rw	PIN_V7	13	LVTTL	Row I/O	CS			
+lcd_en	PIN_V2	12	LVTTL	Row I/O	LVDSTX12n			
+W1_piezo	PIN_W1	12	LVTTL	Row I/O	LVDSTX11p			
